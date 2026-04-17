@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6842d8e3-703b-415d-b8ea-ad48277e8848",
+  "id_short": 471887,
+  "published_at": "2026-04-17T19:32:25Z",
+  "repo_name": "all-restaurants-in-austin-round-rock-san-marcos-metro-texas-us-sample-471887",
+  "sample_asset_name": "beamstation_471887_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/471887/beamstation_471887_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_records": 564,
+  "sample_sha256": "57ddf7cd17f9b25835546ef2fa30fec323cf5f95bbd00db5edb103125aaa9f53",
+  "sample_size_bytes": 1913529,
+  "total_records": 5641
+}
