@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-level restaurant census for the Austin-Round Rock-San Marcos area in central Texas. Captures one of the fastest-growing dining markets in the country, filtered by the Restaurants category group. Features business profiles, review trends, competitive positioning, and contact data. Refreshed weekly.",
   "config_name": "All Restaurants in Austin-Round Rock-San Marcos (Metro), Texas, US",
-  "export_job_id": "0b839c19-20db-49aa-a087-47233335d306",
+  "export_job_id": "c0dfe1fc-069c-471c-beaf-1568b613f978",
   "github_org": "Beamstation-Datasets",
   "id_short": 471887,
   "location_name": "Austin-Round Rock-San Marcos, TX",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-austin-round-rock-san-marcos-metro-texas-us-sample-471887",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/471887/beamstation_471887_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 557,
-  "sample_sha256": "456d4c125f5a4ccb260f7c191fa0214d26e5a50b80c1fd9b7f254bc930b73e8f",
-  "sample_size_bytes": 1800403,
-  "total_records": 5570,
-  "updated_at": "2026-04-28T22:59:52.832072+00:00"
+  "sample_records": 631,
+  "sample_sha256": "4fd7ae27ac94776f9da1dfdd398e844374640fc643ab838c285097787cec7450",
+  "sample_size_bytes": 2076777,
+  "total_records": 6311,
+  "updated_at": "2026-05-07T23:34:55.982695+00:00"
 }
