@@ -1,6 +1,6 @@
 # All Restaurants in Austin-Round Rock-San Marcos (Metro), Texas, US
 
-> Free BeamStation sample export with 557 rows and masked direct-contact fields.
+> Free BeamStation sample export with 631 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `471887` |
 | Location | Austin-Round Rock-San Marcos, TX |
 | Category | Restaurants |
-| Full dataset size | 5,570 records |
-| Free sample size | 557 records (10.0%) |
-| Last export | 2026-04-28T22:59:52.832072+00:00 |
+| Full dataset size | 6,311 records |
+| Free sample size | 631 records (10.0%) |
+| Last export | 2026-05-07T23:34:55.982695+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-austin-round-rock-san-marcos-metro-texas-us-sample-471887/releases/download/sample-latest/beamstation_471887_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
